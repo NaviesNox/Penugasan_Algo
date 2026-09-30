@@ -35,7 +35,7 @@ Penugasan_Algo/
 |---|---|---|---|
 | Tugas 1 | Perbandingan nilai dan latihan dasar C++ | Selesai | Source code tersedia di folder [`tugas1`](tugas1) |
 | Tugas 2 | Percabangan `if` dan sistem berbasis menu | Selesai | Terdapat 4 program pada folder [`tugas2`](tugas2) |
-| Tugas 3 | Program latihan lanjutan | Dalam pengembangan | Source code tersedia di folder [`tugas3`](tugas3) |
+| Tugas 3 | Program latihan lanjutan | selesai | Source code tersedia di folder [`tugas3`](tugas3) |
 
 ### Keterangan Status
 
